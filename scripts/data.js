@@ -2,8 +2,7 @@ var data = [""];
 
 var movieData = [""];
 
-var defaultData = `
-God
+var defaultData = `God
 Name
 Preach
 Witness
@@ -248,8 +247,7 @@ Valley
 Great
 Walk
 Prince
-Eternal
-`;
+Eternal`;
 var defaultData = defaultData.split("\n");
 
 var spanishData = [""];
