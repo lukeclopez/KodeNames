@@ -247,7 +247,15 @@ Valley
 Great
 Walk
 Prince
-Eternal`;
+Eternal
+Voice
+Throne
+Mankind
+Tear
+Pearl
+Leaven
+Hair
+Bear`;
 var defaultData = defaultData.split("\n");
 
 var spanishData = [""];
