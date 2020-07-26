@@ -255,7 +255,37 @@ Tear
 Pearl
 Leaven
 Hair
-Bear`;
+Bear
+Hot
+Cold
+Neck
+Arm
+Hand
+Body
+Sand
+Guard
+Man
+Woman
+Boy
+Girl
+Fruit
+Pig
+Eat
+Sing
+Dance
+Laugh
+Cry
+Weep
+Face
+Nose
+Old
+Young
+Stake
+Boat
+Shore
+Grass
+Flower
+Rod`;
 var defaultData = defaultData.split("\n");
 
 var spanishData = [""];
